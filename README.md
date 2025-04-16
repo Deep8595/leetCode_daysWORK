@@ -1,3 +1,48 @@
+Coding Question Here.
+
+| Q.No. | Topic / Description                                                                 | LeetCode Problem Name (if available)                            | LeetCode ID |
+|-------|--------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------|
+| 2     | Sum in range using prefix sum array                                                  | Range Sum Query – Immutable                                      | 303         |
+| 3     | Equilibrium index in an array                                                        | Find Pivot Index                                                 | 724         |
+| 4     | Check if array can be split into equal prefix and suffix sum                         | Split Array Into Two Equal Sum Subarrays                         | —           |
+| 5     | Max sum of any subarray of size K                                                    | Maximum Average Subarray I                                       | 643         |
+| 6     | Longest substring without repeating characters                                       | Longest Substring Without Repeating Characters                  | 3           |
+| 8     | Longest palindromic substring                                                        | Longest Palindromic Substring                                    | 5           |
+| 9     | Longest common prefix among strings                                                  | Longest Common Prefix                                            | 14          |
+| 10    | Generate all permutations of a string                                                | Permutations                                                     | 46          |
+| 11    | Two numbers in sorted array that add to target                                       | Two Sum II – Input Array Is Sorted                               | 167         |
+| 12    | Next lexicographical permutation                                                     | Next Permutation                                                 | 31          |
+| 13    | Merge two sorted linked lists                                                        | Merge Two Sorted Lists                                           | 21          |
+| 14    | Median of two sorted arrays                                                          | Median of Two Sorted Arrays                                      | 4           |
+| 15    | K-th smallest element in a sorted matrix                                             | Kth Smallest Element in a Sorted Matrix                          | 378         |
+| 16    | Majority element (appears more than n/2 times)                                       | Majority Element                                                 | 169         |
+| 17    | Water trapped between histogram bars                                                 | Trapping Rain Water                                              | 42          |
+| 18    | Maximum XOR of two numbers in array                                                  | Maximum XOR of Two Numbers in an Array                           | 421         |
+| 19    | Maximum product subarray                                                              | Maximum Product Subarray                                         | 152         |
+| 20    | Count numbers with unique digits                                                     | Count Numbers with Unique Digits                                 | 357         |
+| 21    | Count number of 1s in binary from 0 to n                                              | Counting Bits                                                    | 338         |
+| 22    | Check if number is power of two using bit manipulation                               | Power of Two                                                     | 231         |
+| 23    | Maximum XOR of two numbers (repeated of Q18)                                         | Duplicate of Q18                                                 | 421         |
+| 25    | Next greater element for each element                                                | Next Greater Element I                                           | 496         |
+| 26    | Remove n-th node from end of linked list                                              | Remove Nth Node From End of List                                 | 19          |
+| 27    | Node where two singly linked lists intersect                                          | Intersection of Two Linked Lists                                 | 160         |
+| 28    | Implement two stacks in a single array                                                | Design a Two Stack Data Structure (Conceptual)                   | —           |
+| 29    | Check if integer is a palindrome (without string)                                    | Palindrome Number                                                | 9           |
+| 31    | Max in every sliding window of size K using deque                                     | Sliding Window Maximum                                           | 239         |
+| 32    | Largest rectangle in histogram                                                       | Largest Rectangle in Histogram                                   | 84          |
+| 34    | Subarray sum equals K using hashing                                                  | Subarray Sum Equals K                                            | 560         |
+| 35    | K-most frequent elements using priority queue                                        | Top K Frequent Elements                                          | 347         |
+| 36    | Generate all subsets of array                                                        | Subsets                                                          | 78          |
+| 37    | Unique combinations summing to target                                                | Combination Sum                                                  | 39          |
+| 38    | Generate all permutations of array                                                   | Permutations                                                     | 46          |
+| 40    | Element with maximum frequency in array                                              | Sort Characters by Frequency (similar concept)                   | 451         |
+| 41    | Max subarray sum using Kadane's algorithm                                            | Maximum Subarray                                                 | 53          |
+| 43    | Top K frequent elements in an array                                                  | Top K Frequent Elements                                          | 347         |
+| 44    | Two numbers add up to target using hashing                                           | Two Sum                                                          | 1           |
+| 46    | Longest palindromic substring (repeated of Q8)                                       | Duplicate of Q8                                                  | 5           |
+| 48    | Next permutation of array (repeated of Q12)                                          | Duplicate of Q12                                                 | 31          |
+| 49    | Intersection of two linked lists (repeated of Q27)                                   | Duplicate of Q27                                                 | 160         |
+
 Theory Question Here.
 
 1. Explain the concept of a prefix sum array and its applications??
